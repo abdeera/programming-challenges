@@ -1,13 +1,8 @@
-#include "stdafx.h"
 #include <malloc.h>
 #include <time.h>
 #include <algorithm>
 #include <wchar.h>
 
-
-#pragma once
-#define _CRT_SECURE_NO_WARNINGS 1 
-#pragma warning(disable:4996)
 
 int n, q; int *B; int *A; int *C;
 
